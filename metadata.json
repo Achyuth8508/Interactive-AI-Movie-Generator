@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Cinematic Story Studio",
+  "description": "An interactive cinematic story workshop featuring story modes, real-time script writer, simulated movie frame generation, director camera and grade controls, timeline sequencer, branch tracking, character stats, Web Audio ambient synth, and simulated multiplayer voting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
